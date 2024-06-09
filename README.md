@@ -85,7 +85,19 @@ The sky is the limit with this project, all you need is the hardwork and commitm
 
 ## GPT Reimagined: KANs vs MLPs
 ### Description
-In this project we will be implementing Kolmogorov-Arnold Networks (KANs) which are a great alternative for traditional Multi Layer Perceptrons (MLPs). KANs have been invented very recently and are found to outperform the traditional MLP approach. We will implement GPTs (Generative Pretrained Transformers) using the traditional MLP approach and later using KANs to give a proof of principle for the performances of each of them.
+In this project, we aim to explore the effectiveness of Kolmogorov-Arnold Networks (KANs) as an alternative to traditional Multi Layer Perceptrons (MLPs) for implementing Generative Pretrained Transformers (GPTs). GPTs are a class of machine learning models known for their ability to generate natural language text and perform various natural language processing tasks. Traditionally, GPTs have been implemented using MLP architectures. However, KANs, a relatively new development, have shown promise in outperforming MLPs in certain tasks.
+
+This project contributes to the ongoing research in machine learning architectures by providing empirical evidence on the efficacy of Kolmogorov-Arnold Networks as an alternative to traditional MLPs for implementing state-of-the-art language models like GPTs. The findings of this study can inform future developments in neural network architectures and guide the design of more efficient and effective models for natural language processing tasks.
+
+Objectives:
+- Implement GPT using the traditional MLP approach.
+- Implement GPT using Kolmogorov-Arnold Networks (KANs).
+- Compare the performance of GPT implemented with MLPs and KANs across various metrics, including but not limited to:
+    - Language generation quality
+    - Training speed
+    - Model size
+    - Resource utilization
+- Provide a proof of principle for the performances of MLP-based GPTs versus KAN-based GPTs.
 
 ### References
 [1] [MLP vs KAN](https://www.youtube.com/watch?v=-PFIkkwWdnM)
@@ -93,6 +105,8 @@ In this project we will be implementing Kolmogorov-Arnold Networks (KANs) which 
 [2] [KANs explained](https://www.youtube.com/watch?v=7zpz_AlFW2w)
 
 [3] [Original Research Paper proposing KANs](https://arxiv.org/pdf/2404.19756)
+
+**Pre-requisites:** Python Programming, Basic Understanding of Machine Learning Algorithms and Neural Networks
 
 **Difficulty:** Hard
 
