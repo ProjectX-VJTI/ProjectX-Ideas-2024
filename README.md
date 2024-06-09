@@ -44,8 +44,13 @@ This is one of the ways in which this problem can be tackled but not the only on
 **Domains:** Computer Vision, Deep Learning, Augmented Reality
 
 ***
-## Text to Speech
+## Text To Speech
 ### Description
+
+![Text To Speech](https://videocdn.geeksforgeeks.org/geeksforgeeks/ConvertTexttoSpeechinPython/ConvertTexttoSpeechUsingPython20221025115334.jpg)
+
+![Stephen Hawking](https://images.theconversation.com/files/210717/original/file-20180316-104645-6iiy85.jpg?ixlib=rb-4.1.0&rect=0%2C97%2C1620%2C810&q=45&auto=format&w=1356&h=668&fit=crop)
+
 Text To Speech Synthesis is a machine learning task that involves converting written text into spoken words. The goal is to generate synthetic speech that sounds natural and resembles human speech as closely as possible.
 
 Primitively, this was done by storing recorded clips of a person making various sounds like "-tch" or "-zzz" and construct speech from this database by mapping sequences of alphabets to these sounds. However, with the rise of Deep Learning, many more efficient methods have emerged that perform much better at this task.
