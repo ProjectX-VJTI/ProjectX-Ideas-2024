@@ -3,6 +3,8 @@ This is the tentative list of project ideas for the 2024 programme.
 
 Relevant information about each of the projects are provided, and those interested can contact the mentors in case of any query.
 
+Pre-requisites mentioned are not enforced in any way, and are just there to give you a sense of what skills are needed for the project, although it is a plus point if you have the pre-requisites :)
+
 Note that this list is subject to change and not complete.
 
 ***
