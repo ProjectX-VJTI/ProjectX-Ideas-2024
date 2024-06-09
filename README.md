@@ -33,11 +33,46 @@ This is one of the ways in which this problem can be tackled but not the only on
 
 ![Image2](https://drive.google.com/uc?id=1A7AFluZUvBHL1dVuWjiFuiTOyp7VCWde)
 
+**Pre-requisites:** C++ Programming, Python Programming, Basic Understanding of Computer Vision
+
 **Difficulty:** Hard
 
 **Mentors:** Mrudul Pawar
 
 **Domains:** Computer Vision, Deep Learning, Augmented Reality
+
+***
+## Text to Speech
+### Description
+Text To Speech Synthesis is a machine learning task that involves converting written text into spoken words. The goal is to generate synthetic speech that sounds natural and resembles human speech as closely as possible.
+
+Primitively, this was done by storing recorded clips of a person making various sounds like "-tch" or "-zzz" and construct speech from this database by mapping sequences of alphabets to these sounds. However, with the rise of Deep Learning, many more efficient methods have emerged that perform much better at this task.
+
+Normally, Deep Learning Models dealing with TTS comprise of a frontend and a backend, the frontend converts character sequences to spectrograms, and the backend(vocoder) converts spectrograms to audio. The frontend and backend used however differ widely across solutions.
+
+This project will be exploring a wide number of these methods and implementing the ones that work best. Text To Speech has **huge** applications, some of which include, helping the blind browse websites, giving a voice to the mute(remember Stephen Hawking?), making announcements in public places(airports, train stations) and so, so much more.
+
+Additionally, more research is ongoing to see how feasible it is to create a TTS model that mimics someone else voice(deepfakes) given audio clips of that person speaking.
+
+The sky is the limit with this project, all you need is the hardwork and commitment to see it through.
+
+### References
+
+[1] [Understanding Text To Speech](https://en.wikipedia.org/wiki/Speech_synthesis)
+
+[2] [Understanding Audio Processing and Spectrograms](https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53)
+
+[3] [A good overview of Text To Speech](https://fritz.ai/speech-synthesis-with-deep-learning/)
+
+[4] [Some papers on Speech Synthesis](https://paperswithcode.com/task/speech-synthesis)
+
+**Pre-requisites:** Python Programming, Basic Understanding of Deep Learning and Neural Networks 
+
+**Difficulty:** Hard
+
+**Mentors:** Warren Jacinto, Veeransh Shah
+
+**Domains:** Deep Learning, Natural Language Processing, Audio Processing
 
 ***
 
@@ -79,9 +114,68 @@ By the end, you'll have a fully functional game and an AI-based smart computer p
 
 [4] [Fundamental of Mario](https://drive.google.com/file/d/1Q8-6vndo1GYvX_cduDS_AlgZMj5bbJMP/view?usp=sharing)
 
+**Pre-requisites:** Python Programming, Basic Understanding of Reinforcement Learning
+
 **Difficulty:** Medium to Hard
 
 **Mentors:** Vedant Mehra, Labhansh Naik
+
+**Domains:** Game Development, Reinforcement Learning
+
+***
+## ChromaSight
+### Description
+ChromaSight is an innovative color correction tool designed to enhance visual experiences for individuals with color blindness. Our tool utilizes cutting-edge machine learning algorithms and natural language processing to provide personalized color correction solutions tailored to each user's specific color vision deficiencies.
+
+The tool takes in images as input and processes them to enhance colors or apply color correction algorithms tailored for colorblindness. It analyzes the image and adjusts colors based on the type and severity of colorblindness. The tool provides an intuitive interface with options to upload images, select color correction modes, and view the corrected output.
+
+Goals for this project are to:
+- Incorporate accessibility features such as text-to-speech for navigation and colorblind-friendly UI design
+- Utilize machine learning algorithms to automatically detect color blindness type and severity from user input or uploaded images.
+
+The tool outputs corrected images that are optimized for colorblind individuals, ensuring better visibility and comprehension of visual content.
+
+### References
+[1] [A Color Guide for Color Blind People Using Image Processing and OpenCV](https://search.app/r2sUs5WKSrSa8m4i7)
+
+[2] [Coloured Object Detection for Blind People Using CNN](https://search.app/tR6jCyaDcCpZeKpx7)
+
+### Examples
+
+![Sample Input](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0aE17yppUAiK90Z6Gg47b0ik6Z2dLY4O5ndwKEkuiFhgSh-bk)
+
+![Sample Output](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf3Oj3cV4l6mKS5ZPYB8HHCgBxfLiEwKGbhrVraXDgsKDj49ui)
+
+**Pre-requisites:** Python Programming, Basic Understanding of CNNs and Image Processing
+
+**Difficulty:** Medium
+
+**Mentors:** Aditi Dhumal, Anoushka Ruikar
+
+**Domains:** Deep Learning, Computer Vision, Natural Language Processing
+
+***
+
+## Stock Transformers
+### Description
+In the modern capital market, the price of a stock is often considered to be highly volatile and unpredictable because of various social, financial, political and other dynamic factors that can bring catastrophic financial loss to the investors. This project aims to predict stock prices using transformer architecture by utilising the concept of time series forecasting.
+
+The transformer model has been widely leveraged for natural language processing and computer vision tasks,but is less frequently used for tasks like stock prices prediction. The introduction of time2vec encoding to represent the time series features has made it possible to employ the transformer model for the stock price prediction. We aim to  leverage these two effective techniques to discover forecasting ability on volatile stock markets.
+
+### References
+[1] [Time series forecasting ](https://www.tableau.com/learn/articles/time-series-forecasting)
+
+[2] [Transformer Architecture Article ](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0)
+
+[3] [Transformer Architecture 'Attention is all you need' paper](https://arxiv.org/pdf/1706.03762)
+
+[4] [Time2Vec](https://youtu.be/1g9D9tW4AQk?si=3LOw6QlPJPoI-t_d) from 8:00 to 12:00
+
+**Difficulty:** Medium
+
+**Mentors:** Kindipsingh Malhi, Tvisha Vedant
+
+**Domains:** Machine Learning, Deep Learning
 
 ***
 
