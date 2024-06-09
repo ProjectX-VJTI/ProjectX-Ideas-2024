@@ -53,7 +53,7 @@ This is one of the ways in which this problem can be tackled but not the only on
 
 Text To Speech Synthesis is a machine learning task that involves converting written text into spoken words. The goal is to generate synthetic speech that sounds natural and resembles human speech as closely as possible.
 
-Primitively, this was done by storing recorded clips of a person making various sounds like "-tch" or "-zzz" and construct speech from this database by mapping sequences of alphabets to these sounds. However, with the rise of Deep Learning, many more efficient methods have emerged that perform much better at this task.
+Primitively, this was done by storing recorded clips of a person making various sounds like "ri-" or "-zz" and construct speech from this database by mapping sequences of alphabets to these sounds. However, with the rise of Deep Learning, many more efficient methods have emerged that perform much better at this task.
 
 Normally, Deep Learning Models dealing with TTS comprise of a frontend and a backend, the frontend converts character sequences to spectrograms, and the backend(vocoder) converts spectrograms to audio. The frontend and backend used however differ widely across solutions.
 
