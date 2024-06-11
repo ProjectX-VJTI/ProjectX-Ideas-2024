@@ -20,7 +20,7 @@ For the naive approach, this would have a 1/4 score, even though we can see the 
 
 What about if we have multiple correct answers, here for example:
 ```bash
-Correct: This sushi here does not taste good
+Correct: This sushi here does not taste good.
 ```
 is an equally correct response, but our naive method would grade the model poorly.
 
