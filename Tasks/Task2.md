@@ -20,4 +20,6 @@ Example output: ```3 of Spades```, ```Ace of Hearts```, ```5 of Spades```.
 
 - In an upright card only the top row and the left row contain these bigger blocks, hence make sure the card is upright before finding out the value of the card using your algorithm.
 
+Add ```@lbhnsh``` and ```@extint``` also as collaborators to the private repository for the task submission.
+
 TestCases: [link to download](https://drive.google.com/file/d/1OUB3nNahKk7GdAJDK8QIP9fr1L65Mz9k/view?usp=sharing)
