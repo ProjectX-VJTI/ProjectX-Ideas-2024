@@ -229,7 +229,7 @@ Welcome to the exciting world of 2D car simulations powered by physics engines a
 
 ## SmartMailGuard: AI-Powered Email Classification
 
-![Alt Text](https://miro.medium.com/v2/resize:fit:920/1*CS-OYdiRLCBMBiOpEURy0g.png)
+![Alt Text](https://miro.medium.com/v2/resize:fit:1400/1*Fm58r_RQ53sEHfwFa28LpA.png)
 
 ### Description
 
