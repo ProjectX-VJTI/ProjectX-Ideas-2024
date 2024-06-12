@@ -226,3 +226,30 @@ Welcome to the exciting world of 2D car simulations powered by physics engines a
 
 
 ***
+
+## SmartMailGuard: AI-Powered Email Classification
+
+![Alt Text](https://miro.medium.com/v2/resize:fit:920/1*CS-OYdiRLCBMBiOpEURy0g.png)
+
+### Description
+
+In today's fast-paced digital world, our inboxes are bombarded with a relentless stream of emails, making it increasingly challenging to separate the essential from the irrelevant. Spam emails not only clutter our inboxes but also waste valuable time and pose security risks.
+
+Our mission is to develop an AI-powered tool that can accurately distinguish between spam and legitimate emails, revolutionizing productivity and enhancing security. We'll embark on an exciting journey into probabilistic programming, starting with the Naive Bayes Algorithm to build the foundation from scratch. Moreover we'll delve into the world of advanced neural networks, utilizing Long Short-Term Memory (LSTM) networks for their ability to understand the context of emails over time. To push the boundaries even further, we'll harness the power of state-of-the-art architectures like transformers, which have set new benchmarks in natural language processing.
+
+### References
+
+[1] [Basics of Neural Networks](#https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+[2] [Introduction To Transformers](#https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0)
+[3] [Attention Is All You Need](#https://arxiv.org/pdf/1706.03762)
+[4] [Bayes Algorithm](#https://petuum.medium.com/intro-to-modern-bayesian-learning-and-probabilistic-programming-c61830df5c50)
+
+**Prerequisites**: Python programming, Basic Understanding of Neural Networks and Bayesian Algorithms
+
+**Difficulty**: Medium to Hard
+
+**Mentors**:Druhi Phutane, Raya Chakravarty
+
+**Domains**:Deep Learning, NLP, Probabilistic Programming
+
+***
