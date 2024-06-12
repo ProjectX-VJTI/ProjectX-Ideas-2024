@@ -239,10 +239,13 @@ Our mission is to develop an AI-powered tool that can accurately distinguish bet
 
 ### References
 
-[1] [Basics of Neural Networks](#https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-[2] [Introduction To Transformers](#https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0)
-[3] [Attention Is All You Need](#https://arxiv.org/pdf/1706.03762)
-[4] [Bayes Algorithm](#https://petuum.medium.com/intro-to-modern-bayesian-learning-and-probabilistic-programming-c61830df5c50)
+[1] [Basics of Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+[2] [Introduction To Transformers](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0)
+
+[3] [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
+
+[4] [Bayes Algorithm](https://petuum.medium.com/intro-to-modern-bayesian-learning-and-probabilistic-programming-c61830df5c50)
 
 **Prerequisites**: Python programming, Basic Understanding of Neural Networks and Bayesian Algorithms
 
