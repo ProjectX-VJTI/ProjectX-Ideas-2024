@@ -287,11 +287,17 @@ A very large dataset containing images and its text descriptions is used to trai
 
 ***
 
-##  🎼Deep Multiclass Audio Classification using CNN and transfer learning🎧
+##  🎼Deep Multiclass Audio Classification🎧
 ### Description
 ![](https://www.frontiersin.org/files/Articles/810330/fevo-10-810330-HTML-r1/image_m/fevo-10-810330-g001.jpg)
 Are you aware of the fact that nowadays there are AI tools available in the market which can mimic human sounds? Have you ever wondered how it's possible and how do these model understand music and sounds so distinctly. The credit goes to convolutional neural networks(CNNs).
 
+Our project would include classifying various audio recordings with help of CNNs. This involves deep understanding of the basic architecture of CNNs. 
+
+We would be accomplishing our project using two approaches
+1. Using Convolutional Neural Network from Scratch
+2. Using Transfer Learning
+Transfer learning involves use of pre-trained model weights for audio-classification. Here you would also be fine-tuning the pre-trained model on particular dataset based on your project's need.
 
 **Pre-requisites**: Good profeciency in Python Programming, Basic Understanding of Neural Networks
 
