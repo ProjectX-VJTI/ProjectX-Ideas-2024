@@ -311,7 +311,7 @@ Transfer learning involves leveraging pre-trained model weights for audio classi
 
 It's often confusing for beginners to understand that, besides image processing, CNNs are also highly effective for processing audio data.
 
-**Pre-requisites**: Good profeciency in Python Programming, Basic Understanding of Neural Networks
+**Pre-requisites**: Proficiency in Python Programming, Basic Understanding of Neural Networks
 
 **Difficulty**: Hard
 
