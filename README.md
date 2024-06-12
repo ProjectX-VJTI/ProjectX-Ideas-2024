@@ -295,8 +295,10 @@ Are you aware that modern AI tools can mimic human sounds with remarkable accura
 Our project focuses on classifying various audio recordings using CNNs. To achieve this, we will explore the basic architecture of CNNs in great detail. This includes a deep understanding of the underlying concepts of CNNs, such as convolutional layers (filters & kernels), batch normalization, different activation functions, loss functions, backpropagation, gradient descent, and more.
 
 We will approach this project using two methodologies:
+
 1.Building a Convolutional Neural Network from Scratch
 2.Using Transfer Learning
+
 Transfer learning involves leveraging pre-trained model weights for audio classification. Here, you will also fine-tune the pre-trained model on a specific dataset based on the project's requirements.
 
 ### References
