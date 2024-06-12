@@ -247,12 +247,13 @@ Our mission is to develop an AI-powered tool that can accurately distinguish bet
 
 [4] [Bayes Algorithm](https://petuum.medium.com/intro-to-modern-bayesian-learning-and-probabilistic-programming-c61830df5c50)
 
-**Prerequisites**: Python programming, Basic Understanding of Neural Networks and Bayesian Algorithms
+**Pre-requisites**: Python Programming, Basic Understanding of Neural Networks and Bayesian Algorithms
 
 **Difficulty**: Medium to Hard
 
-**Mentors**:Druhi Phutane, Raya Chakravarty
+**Mentors**: Druhi Phutane, Raya Chakravarty
 
-**Domains**:Deep Learning, NLP, Probabilistic Programming
+**Domains**: Deep Learning, Natural Language Processing, Probabilistic Programming
+
 
 ***
