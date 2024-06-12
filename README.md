@@ -224,7 +224,6 @@ Welcome to the exciting world of 2D car simulations powered by physics engines a
 
 **Domains**: Artificial Intelligence/Machine Learning, Computer Graphics and Simulation, Game Development  
 
-
 ***
 
 ## SmartMailGuard: AI-Powered Email Classification
@@ -255,5 +254,33 @@ Our mission is to develop an AI-powered tool that can accurately distinguish bet
 
 **Domains**: Deep Learning, Natural Language Processing, Probabilistic Programming
 
+***
+
+## Verbal to Visual : Text to Image Generation
+### Description
+![Text2Img](https://media.licdn.com/dms/image/D5612AQH9Hkz1riV5lA/article-cover_image-shrink_720_1280/0/1654634918204?e=2147483647&v=beta&t=yq_FuOBkKS53Lzvc3ykBsEAwbWRMWSEPH1ONuq3lViU)
+
+Have you ever imagined a world where your words can instantly paint a picture? **Verbal to Visual** turns this imagination into reality. 
+
+Welcome to **Verbal to Visual**, an innovative project where deep learning breathes life into words, transforming textual descriptions into vivid, lifelike images. Harnessing the power of state-of-the-art neural networks, this project showcases a perfect fusion of natural language processing and computer vision to create stunning visual representations from mere text.
+
+A very large dataset containing images and its text descriptions is used to train our model for it to extract features through encoder and create embeddings. A short text description is given as input. Our model predicts tokens for the image using trained data. Tokens are given input to the decoder to generate the image.
+
+### References
+[1] [Txt2Img-MHN](https://arxiv.org/pdf/2208.04441)
+
+[2] [Text to Artistic Image](https://arxiv.org/pdf/2205.02439)
+
+[3] [Image Generation: Text to Image](https://medium.com/image-recreation-a-method-to-make-learning-of-gan/image-generation-text-to-image-d7c4210ecb90)
+
+[4] [GAN Introduction](https://developers.google.com/machine-learning/gan)
+
+**Pre-requisites:** Python Programming, Basic Understanding of Deep Learning and Neural Networks
+
+**Difficulty:** Medium to Hard
+
+**Mentors:** Param Parekh, Rohan Parab
+
+**Domains:** Deep Learning, Natural Language Processing, Computer Vision
 
 ***
