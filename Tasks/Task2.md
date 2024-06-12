@@ -18,8 +18,10 @@ Example output: ```3 of Spades```, ```Ace of Hearts```, ```5 of Spades```.
 
 - The numbers range only from Ace, 2, 3 , 4, 5, 6.
 
-- In an upright card only the top row and the left row contain these bigger blocks, hence make sure the card is upright before finding out the value of the card using your algorithm.
+- In an upright card only the top row and the left row contain these bigger blocks, hence make sure the card is upright (the algorithm should do this) before finding out the value of the card using your algorithm.
 
-Add ```@lbhnsh``` and ```@extint``` also as collaborators to the private repository for the task submission.
+Note:
+Add ```@lbhnsh``` and ```@extint``` ,apart from the project mentors, as collaborators to the private repository for the task submission and inform them on whatsapp.
+You can use OpenCV functions only to read and transform the images. Hence to solve you, must design your own brute force algorithm.
 
 TestCases: [link to download](https://drive.google.com/file/d/1OUB3nNahKk7GdAJDK8QIP9fr1L65Mz9k/view?usp=sharing)
