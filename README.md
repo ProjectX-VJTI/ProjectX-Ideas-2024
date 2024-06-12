@@ -290,14 +290,15 @@ A very large dataset containing images and its text descriptions is used to trai
 ##  🎼Deep Multiclass Audio Classification using CNN and transfer learning🎧
 ### Description
 ![](https://www.frontiersin.org/files/Articles/810330/fevo-10-810330-HTML-r1/image_m/fevo-10-810330-g001.jpg)
+Are you aware of the fact that nowadays there are AI tools available in the market which can mimic human sounds? Have you ever wondered how it's possible and how do these model understand music and sounds so distinctly. The credit goes to convolutional neural networks(CNNs).
 
 
-**Pre-requisites**: Python Programming, Basic Understanding of Neural Networks and Bayesian Algorithms
+**Pre-requisites**: Good profeciency in Python Programming, Basic Understanding of Neural Networks
 
 **Difficulty**: Hard
 
 **Mentors**: Kshitij Shah, Param Thakkar
 
-**Domains**: Deep Learning, Transfer Learning
+**Domains**: Machine Learning, Deep Learning
 
 ***
