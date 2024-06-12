@@ -293,7 +293,9 @@ A very large dataset containing images and its text descriptions is used to trai
 Are you aware that modern AI tools can mimic human sounds with remarkable accuracy? Have you ever wondered how these models understand music and sounds so distinctly? The credit goes to Convolutional Neural Networks (CNNs).
 
 Our project focuses on classifying various audio recordings using CNNs. To achieve this, we will explore the basic architecture of CNNs in great detail. This includes a deep understanding of the underlying concepts of CNNs, such as convolutional layers (filters & kernels), batch normalization, different activation functions, loss functions, backpropagation, gradient descent, and more.
+
 We would be providing our model multiple audio files based on which it would classify which audio corresponds to which bird. For this we would initially train the model on a dataset having all details of the birds and their corresponding sounds. Once it is trained we would test out the model results and try improve it's efficiency. 
+
 We will approach this project using two methodologies:
 
 1.Building a Convolutional Neural Network from Scratch
