@@ -286,3 +286,18 @@ A very large dataset containing images and its text descriptions is used to trai
 **Domains:** Deep Learning, Natural Language Processing, Computer Vision
 
 ***
+
+##  🎼Deep Multiclass Audio Classification using CNN and transfer learning🎧
+### Description
+![](https://www.frontiersin.org/files/Articles/810330/fevo-10-810330-HTML-r1/image_m/fevo-10-810330-g001.jpg)
+
+
+**Pre-requisites**: Python Programming, Basic Understanding of Neural Networks and Bayesian Algorithms
+
+**Difficulty**: Hard
+
+**Mentors**: Kshitij Shah, Param Thakkar
+
+**Domains**: Deep Learning, Transfer Learning
+
+***
