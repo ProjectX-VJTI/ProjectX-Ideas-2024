@@ -7,7 +7,7 @@ Pre-requisites mentioned are not enforced in any way, and are just there to give
 
 Note that this list is subject to change and not complete.
 
-Current Project Count: **9**
+Current Project Count: **10**
 
 ***
 ## Virtual Try On for Products
@@ -290,14 +290,26 @@ A very large dataset containing images and its text descriptions is used to trai
 ##  🎼Deep Multiclass Audio Classification🎧
 ### Description
 ![](https://www.frontiersin.org/files/Articles/810330/fevo-10-810330-HTML-r1/image_m/fevo-10-810330-g001.jpg)
-Are you aware of the fact that nowadays there are AI tools available in the market which can mimic human sounds? Have you ever wondered how it's possible and how do these model understand music and sounds so distinctly. The credit goes to convolutional neural networks(CNNs).
+Are you aware that modern AI tools can mimic human sounds with remarkable accuracy? Have you ever wondered how these models understand music and sounds so distinctly? The credit goes to Convolutional Neural Networks (CNNs).
 
-Our project would include classifying various audio recordings with help of CNNs. This involves deep understanding of the basic architecture of CNNs. 
+Our project focuses on classifying various audio recordings using CNNs. To achieve this, we will explore the basic architecture of CNNs in great detail. This includes a deep understanding of the underlying concepts of CNNs, such as convolutional layers (filters & kernels), batch normalization, different activation functions, loss functions, backpropagation, gradient descent, and more.
 
-We would be accomplishing our project using two approaches
-1. Using Convolutional Neural Network from Scratch
-2. Using Transfer Learning
-Transfer learning involves use of pre-trained model weights for audio-classification. Here you would also be fine-tuning the pre-trained model on particular dataset based on your project's need.
+We will approach this project using two methodologies:
+1.Building a Convolutional Neural Network from Scratch
+2.Using Transfer Learning
+Transfer learning involves leveraging pre-trained model weights for audio classification. Here, you will also fine-tune the pre-trained model on a specific dataset based on the project's requirements.
+
+### References
+
+[1] [Basics of Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+[2] [Understanding Audio Processing and Spectrograms](https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53)
+
+[3] [Introduction to CNNs](https://www.ibm.com/topics/convolutional-neural-networks)
+
+[4] [Research Paper on CNNs](https://arxiv.org/pdf/1511.08458)
+
+It's often confusing for beginners to understand that, besides image processing, CNNs are also highly effective for processing audio data.
 
 **Pre-requisites**: Good profeciency in Python Programming, Basic Understanding of Neural Networks
 
