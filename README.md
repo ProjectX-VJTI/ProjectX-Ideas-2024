@@ -7,6 +7,8 @@ Pre-requisites mentioned are not enforced in any way, and are just there to give
 
 Note that this list is subject to change and not complete.
 
+Current Project Count: **9**
+
 ***
 ## Virtual Try On for Products
 ### Description
