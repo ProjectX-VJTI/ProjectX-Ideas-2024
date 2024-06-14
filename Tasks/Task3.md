@@ -45,7 +45,7 @@ Here is are two test cases, that you must mandatorily submit output for
 Reference: It is a guide to action that ensures that the military will forever heed Party commands
 Reference: It is the guiding principle which guarantees the military forces always being under the command of the Party
 Reference: It is the practical guide for the army always to heed the directions of the party
-Candidate: It is a guide to action which ensures that the miltary always obeys the commands of the party
+Candidate: It is a guide to action which ensures that the military always obeys the commands of the party
 ```
 
 ```bash
