@@ -62,5 +62,7 @@ Notes:
 
 3. Your implementation need not be exact accurate upto the decimals, as long as its approximate, its correct.
 
-4. Your submission will consist of your code + the screenshots of what your code gives for the above 2 test cases.
+4. Only consider upto n=4 n-grams
+
+5. Your submission will consist of your code + the screenshots of what your code gives for the above 2 test cases.
 
