@@ -368,7 +368,7 @@ It is this adaptability that is particularly useful in noisy environments where 
 **Domains**: Computer Vision, Natural Langauge Processing, Speech Recognition
 
 ***
-# Xcelerate - Self Driving Car
+## Xcelerate - Self Driving Car using CNNs
 
 ---
 
