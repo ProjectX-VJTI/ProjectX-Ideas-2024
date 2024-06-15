@@ -7,7 +7,7 @@ Pre-requisites mentioned are not enforced in any way, and are just there to give
 
 Note that this list is subject to change and not complete.
 
-Current Project Count: **10**
+Current Project Count: **11**
 
 ***
 ## Virtual Try On for Products
@@ -324,5 +324,30 @@ It's often confusing for beginners to understand that, besides image processing,
 **Mentors**: Kshitij Shah, Param Thakkar
 
 **Domains**: Machine Learning, Deep Learning
+
+***
+
+## Lip Reaading
+### Description
+A lip-reading model based on CNN and LSTM applies the power of Convolutional Neural Networks (CNNs) in combination with Long Short-Term Memory networks (LSTMs) to decode speech from video sequences with lip movements. 
+While the LSTM component captures the temporal dynamics of these motions for understanding spoken phrases or words, the CNN part extracts spatial features from consecutive frames showing lip movements. 
+Hence, this combination can process both temporal and spatial information efficiently. When the model learns how lips move to produce particular sounds heard during speech it can accommodate itself to different accents including those of individual speakers. 
+It is this adaptability that is particularly useful in noisy environments where audio quality varies greatly for example.
+
+### References
+
+[1] [Understanding Lip Reading](https://cs229.stanford.edu/proj2019aut/data/assignment_308832_raw/26646023.pdf)
+
+[2] [Basics of Lip Reading](https://cs231n.stanford.edu/reports/2016/pdfs/217_Report.pdf)
+
+[3] [Paper on Lip Reading](https://ar5iv.labs.arxiv.org/html/1611.01599)
+
+**Pre-requisites**: Proficiency in Python Programming, Basic Understanding of Natural Language Processing
+
+**Difficulty**: Hard
+
+**Mentor**: Veeransh Shah
+
+**Domains**: Computer Vision, Natural Langauge Processing, Speech Recognition
 
 ***
