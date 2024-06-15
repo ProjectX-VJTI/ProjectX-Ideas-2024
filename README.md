@@ -7,7 +7,24 @@ Pre-requisites mentioned are not enforced in any way, and are just there to give
 
 Note that this list is subject to change and not complete.
 
-Current Project Count: **11**
+Current Project Count: **12**
+
+## Index
+
+Check out **Amazing** Projects below:
+
+1. [Virtual Try On for Products](#virtual-try-on-for-products)
+2. [Text To Speech](#text-to-speech)
+3. [GPT Reimagined: KANs vs MLPs](#gpt-reimagined-kans-vs-mlps)
+4. [Super MaRLo Bros](#super-marlo-bros)
+5. [ChromaSight](#chromasight)
+6. [Stock Transformers](#stock-transformers)
+7. [2D Car Simulation with Genetic Algorithms](#2d-car-simulation-with-genetic-algorithms)
+8. [SmartMailGuard: AI-Powered Email Classification](#smartmailguard-ai-powered-email-classification)
+9. [Verbal to Visual : Text to Image Generation](#verbal-to-visual--text-to-image-generation)
+10. [Deep Multiclass Audio Classification](#deep-multiclass-audio-classification)
+11. [Lip Reading](#lip-reading)
+12. [Xcelerate - Self Driving Car](#xcelerate---self-driving-car)
 
 ***
 ## Virtual Try On for Products
@@ -202,7 +219,7 @@ The transformer model has been widely leveraged for natural language processing 
 
 ***
 
-## 🚗 2D Car Simulation with Genetic Algorithms 🧬
+## 2D Car Simulation with Genetic Algorithms
 ### Description
 
 Welcome to the exciting world of 2D car simulations powered by physics engines and genetic algorithms! 🎉 In this project, we'll explore how these powerful tools can be combined to create a virtual playground where cars evolve and adapt to their environment. Our simulation will take place in a highly realistic 2D world governed by the laws of physics, featuring mind-blowing elements like collision detection, contact callbacks, convex polygons and circles, multiple shapes per body,  stable stacking, joints and constraints, and momentum and impulses, ensuring truly lifelike movements. Moreover, we'll implement our own physics engine, providing a deep understanding of the underlying mechanics and customization for our specific needs. Additionally, we'll harness the power of genetic algorithms (GAs) to create an intelligent and adaptive system that searches for the best car designs. GAs, inspired by natural selection and genetics, allow us to evolve solutions towards optimal performance. We'll start with a random initial population of car designs, evaluate their performance based on a fitness function (e.g., distance traveled, stability, etc.), and use genetic operations like crossover and mutation to create new generations. This iterative process continues until we find an optimal or satisfactory car design. By the end of this project, we will have a fully working simulation of 2D cars with all mentioned features and various parameters. 
@@ -327,7 +344,7 @@ It's often confusing for beginners to understand that, besides image processing,
 
 ***
 
-## Lip Reaading
+## Lip Reading
 ### Description
 A lip-reading model based on CNN and LSTM applies the power of Convolutional Neural Networks (CNNs) in combination with Long Short-Term Memory networks (LSTMs) to decode speech from video sequences with lip movements. 
 While the LSTM component captures the temporal dynamics of these motions for understanding spoken phrases or words, the CNN part extracts spatial features from consecutive frames showing lip movements. 
@@ -349,5 +366,60 @@ It is this adaptability that is particularly useful in noisy environments where 
 **Mentor**: Veeransh Shah
 
 **Domains**: Computer Vision, Natural Langauge Processing, Speech Recognition
+
+***
+# Xcelerate - Self Driving Car
+
+---
+
+
+https://github.com/Aditya-y9/ProjectX-Ideas-2024/assets/122613756/6a29dd8d-90de-4fab-adda-543ea0068219
+
+
+## Overview
+
+The project uses a CNN to process the raw pixel data from the front-facing camera and map it directly to steering commands. This end-to-end approach eliminates the need for explicit feature extraction and path planning.
+
+The Project focuses on training a convolutional neural network (CNN) to map raw pixels from a single front-facing camera directly to steering commands. This end-to-end approach is capable of navigating in various driving conditions, including local roads, highways, parking lots, and unpaved roads. The system learns necessary processing steps internally, detecting road features without explicit training for those features.
+
+This project is to make a self driving car with variable
+1. Speed
+2. Steering Angle
+
+Sensor data is collected from the car and the car is controlled using the data collected.
+
+## Approach
+
+There are 2 approaches to this project:
+1. Behavioral Cloning
+2. End-to-End Learning
+
+### Behavioral Cloning
+Behavioral cloning is a method by which a neural network learns to map an input to an output by training on a dataset of input-output pairs. In the context of self-driving cars, the input is the image from the front-facing camera and the output is the steering angle. The network learns to predict the steering angle by training on the dataset of images and corresponding steering angles.
+
+### End-to-End Learning
+End-to-End learning is a method by which a neural network learns to map an input to an output by training on a dataset of input-output pairs. In the context of self-driving cars, the input is the image from the front-facing camera and the output is the steering angle. The network learns to predict the steering angle by training on the dataset of images and corresponding steering angles.
+
+----
+
+*This are two of the ways in which this problem can be tackled but not the only one. Applicants are encouraged to come up with your own solutions and steps to complete this project which could be more efficient and unique*
+
+**Pre-requisites**: Gist of Neural Networks,
+Basic Understanding of Computer Vision, Proficiency in Python Programming
+
+**Difficulty**: Medium to Hard
+
+**Mentors**: Abhi Mehta , Aditya Yedurkar 
+
+**Domains**: Machine Learning, Deep Learning, Computer Vision
+
+## References
+
+1. [End-to-End Deep Learning for Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/)
+
+2. [Behavioral Cloning](https://arxiv.org/abs/1704.03732)
+
+3. [End-to-End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
+
 
 ***
