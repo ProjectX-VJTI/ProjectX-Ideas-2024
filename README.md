@@ -24,7 +24,7 @@ Check out **Amazing** Projects below:
 9. [Verbal to Visual : Text to Image Generation](#verbal-to-visual--text-to-image-generation)
 10. [Deep Multiclass Audio Classification](#deep-multiclass-audio-classification)
 11. [Lip Reading](#lip-reading)
-12. [Xcelerate - Self Driving Car](#xcelerate---self-driving-car)
+12. [Xcelerate - Self Driving Car](#xcelerate---self-driving-car-using-cnns)
 
 ***
 ## Virtual Try On for Products
