@@ -25,7 +25,7 @@ Check out **Amazing** Projects below:
 10. [Deep Multiclass Audio Classification](#deep-multiclass-audio-classification)
 11. [Lip Reading](#lip-reading)
 12. [Xcelerate - Self Driving Car](#xcelerate---self-driving-car-using-cnns)
-
+13. [The Not So Generic Chatbot](#)
 ***
 ## Virtual Try On for Products
 ### Description
@@ -211,7 +211,7 @@ The transformer model has been widely leveraged for natural language processing 
 
 [4] [Time2Vec](https://youtu.be/1g9D9tW4AQk?si=3LOw6QlPJPoI-t_d) from 8:00 to 12:00
 
-**Difficulty:** Medium
+**Difficulty:** Mediumto Hard
 
 **Mentors:** Kindipsingh Malhi, Tvisha Vedant
 
@@ -429,5 +429,32 @@ Basic Understanding of Computer Vision, Proficiency in Python Programming
 
 3. [End-to-End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
 
+
+***
+## The Not So Generic Chatbot
+
+---
+
+## Overview
+
+Traditional LLMs have a limited Scope and their outputs just depend on the data it is originally trained on. If a user asks a query, the response of which depends on a specific chunk of information which might not be related to the general data llms are trained on then the output obtained is not reliable and may lead to false decisions. RAG is a great way to overcome this issue, also it is comparitively efficient than other techniques like fine-tuning. Due to the dawn of Multimodal LLMs, the limited scope of RAGs to utilise only text documents is expanding to include other media like images.
+In this project we aim to develop a topic specific chatbot that will havev additional context, using MultiModal RAG.It will be able to take text and image inputs and give reliable output based on the extra data it will be fed.
+
+
+## References
+
+1. [Working Of RAG](https://www.youtube.com/watch?v=T-D1OfcDW1M)
+
+2. [Multimodal LLMs](https://zapier.com/blog/multimodal-ai/)
+
+3. [Image search with embeddings](https://medium.com/@tenyks_blogger/multi-modal-image-search-with-embeddings-vector-dbs-cee61c70a88a)
+
+
+![RAG Workflow diagram ](https://drive.google.com/file/d/1lOJTXibovOJP2SNmwn-LHJmJFlLh-X9g/view?usp=sharing)
+
+**Difficulty**: Medium 
+
+**Mentors**: Kshitij Shah , Tvisha
+**Domains**: Machine Learning, Deep Learning, LLMs
 
 ***
