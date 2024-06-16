@@ -345,6 +345,14 @@ It's often confusing for beginners to understand that, besides image processing,
 ***
 
 ## Lip Reading
+
+---
+<p align="center" >
+<img src="https://github.com/ProjectX-VJTI/ProjectX-Ideas-2024/assets/122613756/8eb86ef2-49da-4bc7-8247-23514bf17752" alt="lip_reading" />
+</p>
+
+---
+
 ### Description
 A lip-reading model based on CNN and LSTM applies the power of Convolutional Neural Networks (CNNs) in combination with Long Short-Term Memory networks (LSTMs) to decode speech from video sequences with lip movements. 
 While the LSTM component captures the temporal dynamics of these motions for understanding spoken phrases or words, the CNN part extracts spatial features from consecutive frames showing lip movements. 
@@ -372,9 +380,9 @@ It is this adaptability that is particularly useful in noisy environments where 
 
 ---
 
-
-https://github.com/Aditya-y9/ProjectX-Ideas-2024/assets/122613756/6a29dd8d-90de-4fab-adda-543ea0068219
-
+<p align="center">
+<video src="https://github.com/Aditya-y9/ProjectX-Ideas-2024/assets/122613756/6a29dd8d-90de-4fab-adda-543ea0068219" alt="Xcelerate" />
+</p>
 
 ## Overview
 
