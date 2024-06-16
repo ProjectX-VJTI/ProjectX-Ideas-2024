@@ -410,7 +410,7 @@ End-to-End learning is a method by which a neural network learns to map an input
 
 ----
 
-*This are two of the ways in which this problem can be tackled but not the only one. Applicants are encouraged to come up with your own solutions and steps to complete this project which could be more efficient and unique*
+*These are two of the ways in which this problem can be tackled but not the only one. Applicants are encouraged to come up with your own solutions and steps to complete this project which could be more efficient and unique*
 
 **Pre-requisites**: Gist of Neural Networks,
 Basic Understanding of Computer Vision, Proficiency in Python Programming
