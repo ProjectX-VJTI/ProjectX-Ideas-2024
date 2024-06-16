@@ -449,12 +449,12 @@ In this project we aim to develop a topic specific chatbot that will havev addit
 
 3. [Image search with embeddings](https://medium.com/@tenyks_blogger/multi-modal-image-search-with-embeddings-vector-dbs-cee61c70a88a)
 
-
-![RAG Workflow diagram ](https://drive.google.com/file/d/1lOJTXibovOJP2SNmwn-LHJmJFlLh-X9g/view?usp=sharing)
+![RAG Workflow diagram](https://drive.google.com/file/d/1lOJTXibovOJP2SNmwn-LHJmJFlLh-X9g/view?usp=sharing)
 
 **Difficulty**: Medium 
 
 **Mentors**: Kshitij Shah , Tvisha
+
 **Domains**: Machine Learning, Deep Learning, LLMs
 
 ***
