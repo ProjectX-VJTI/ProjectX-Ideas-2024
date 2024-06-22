@@ -11,7 +11,7 @@ Current Project Count: **13**
 
 ## Index
 
-Check out **Amazing** Projects below:
+Check out our **Amazing** Projects below:
 
 1. [Virtual Try On for Products](#virtual-try-on-for-products)
 2. [Text To Speech](#text-to-speech)
@@ -412,15 +412,6 @@ End-to-End learning is a method by which a neural network learns to map an input
 
 *These are two of the ways in which this problem can be tackled but not the only one. Applicants are encouraged to come up with your own solutions and steps to complete this project which could be more efficient and unique*
 
-**Pre-requisites**: Gist of Neural Networks,
-Basic Understanding of Computer Vision, Proficiency in Python Programming
-
-**Difficulty**: Medium to Hard
-
-**Mentors**: Abhi Mehta , Aditya Yedurkar 
-
-**Domains**: Machine Learning, Deep Learning, Computer Vision
-
 ## References
 
 1. [End-to-End Deep Learning for Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/)
@@ -429,6 +420,14 @@ Basic Understanding of Computer Vision, Proficiency in Python Programming
 
 3. [End-to-End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
 
+**Pre-requisites**: Gist of Neural Networks,
+Basic Understanding of Computer Vision, Proficiency in Python Programming
+
+**Difficulty**: Medium to Hard
+
+**Mentors**: Abhi Mehta , Aditya Yedurkar 
+
+**Domains**: Machine Learning, Deep Learning, Computer Vision
 
 ***
 ## The Not So Generic Chatbot
@@ -453,7 +452,7 @@ In this project we aim to develop a topic specific chatbot that will havev addit
 
 **Difficulty**: Medium 
 
-**Mentors**: Kshitij Shah , Tvisha
+**Mentors**: Kshitij Shah , Tvisha Vedant
 
 **Domains**: Machine Learning, Deep Learning, LLMs
 
