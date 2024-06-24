@@ -390,7 +390,14 @@ The project uses a CNN to process the raw pixel data from the front-facing camer
 
 The Project focuses on training a convolutional neural network (CNN) to map raw pixels from a single front-facing camera directly to steering commands. This end-to-end approach is capable of navigating in various driving conditions, including local roads, highways, parking lots, and unpaved roads. The system learns necessary processing steps internally, detecting road features without explicit training for those features.
 
-This project is to make a self driving car with variable
+#### Includes:
+1. Lane Detection
+2. Traffic Sign Recognition
+3. Vehicle Detection
+4. Path Planning
+5. Road Segmentation
+
+Self driving car (Our Agent) has variable
 1. Speed
 2. Steering Angle
 
