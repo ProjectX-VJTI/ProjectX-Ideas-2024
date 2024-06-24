@@ -380,8 +380,13 @@ It is this adaptability that is particularly useful in noisy environments where 
 
 ---
 
+
+
+
+
+
 <p align="center">
-<video src="https://github.com/Aditya-y9/ProjectX-Ideas-2024/assets/122613756/6a29dd8d-90de-4fab-adda-543ea0068219" alt="Xcelerate" />
+<video src="https://github.com/ProjectX-VJTI/ProjectX-Ideas-2024/assets/122613756/7a556b93-013e-4131-a268-fb366a170f9d" alt="Xcelerate" />
 </p>
 
 ## Overview
