@@ -464,7 +464,7 @@ In this project we aim to develop a topic specific chatbot that will havev addit
 
 **Difficulty**: Medium 
 
-**Mentors**:Mohammed Bhadsrawala, Kshitij Shah , Tvisha Vedant
+**Mentors**:Mohammed Bhadsorawala, Kshitij Shah , Tvisha Vedant
 
 **Domains**: Machine Learning, Deep Learning, LLMs
 
